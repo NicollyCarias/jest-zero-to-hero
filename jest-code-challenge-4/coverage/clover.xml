@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1656019720742" clover="3.2.0">
+  <project timestamp="1656019720743" name="All files">
+    <metrics statements="37" coveredstatements="4" conditionals="14" coveredconditionals="4" methods="12" coveredmethods="3" elements="63" coveredelements="11" complexity="0" loc="37" ncloc="37" packages="1" files="6" classes="6"/>
+    <file name="calculadora.js" path="/home/nicolly/Documents/REPOSITORIOS/CAPACITAÇÃO-JEST/jest-4/nicolly-jest-code-challenge-4/challenge-4/src/calculadora.js">
+      <metrics statements="7" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="3" count="0" type="cond" truecount="0" falsecount="5"/>
+      <line num="4" count="0" type="cond" truecount="0" falsecount="3"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+    </file>
+    <file name="core.js" path="/home/nicolly/Documents/REPOSITORIOS/CAPACITAÇÃO-JEST/jest-4/nicolly-jest-code-challenge-4/challenge-4/src/core.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="factory.js" path="/home/nicolly/Documents/REPOSITORIOS/CAPACITAÇÃO-JEST/jest-4/nicolly-jest-code-challenge-4/challenge-4/src/factory.js">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+    <file name="final.js" path="/home/nicolly/Documents/REPOSITORIOS/CAPACITAÇÃO-JEST/jest-4/nicolly-jest-code-challenge-4/challenge-4/src/final.js">
+      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+    </file>
+    <file name="mongo-cliente.js" path="/home/nicolly/Documents/REPOSITORIOS/CAPACITAÇÃO-JEST/jest-4/nicolly-jest-code-challenge-4/challenge-4/src/mongo-cliente.js">
+      <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+    </file>
+    <file name="repositorio.js" path="/home/nicolly/Documents/REPOSITORIOS/CAPACITAÇÃO-JEST/jest-4/nicolly-jest-code-challenge-4/challenge-4/src/repositorio.js">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
